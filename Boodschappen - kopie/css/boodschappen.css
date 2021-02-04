@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif, Arial;
+}
+
+table, th, td {
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+
+table {
+    width: 25%;    
+}
+
+th {
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+
+td {
+    padding: 10px;
+}
